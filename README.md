@@ -1,3 +1,5 @@
 # hello-world
 1st repo
-master update
+
+update in branch has been merge
+ 
