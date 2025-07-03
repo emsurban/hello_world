@@ -1,3 +1,3 @@
 <?php
-echo "Bye, World!. going to branch of branch 1";
+echo "Bye, World!. going to main of branch 1";
 ?>
